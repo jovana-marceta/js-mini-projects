@@ -1,2 +1,5 @@
-# js-mini-projects
-Collection of JavaScrit projects
+# Change Background Color JavaScript Project
+
+Every time the button is clicked, the background changes color.
+
+
